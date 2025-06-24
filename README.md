@@ -69,7 +69,7 @@ Here is the Entity Relationship Diagram of the Blood Bank Management System.
 
 <div style="text-align: center;">
   <h4>Home Tab</h4>
-  <img src="./Screenshots/Home%20Tab.png" alt="Home Tab" width="300"/>
+  <img src="./Screenshots/Home%20Tab.png" alt="Home Tab" width="100"/>
 </div>
 
 <div style="text-align: center;">
