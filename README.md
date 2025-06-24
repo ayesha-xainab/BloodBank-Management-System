@@ -63,29 +63,32 @@ Here is the Entity Relationship Diagram of the Blood Bank Management System.
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+## Screenshots
 
-<div style="flex: 1; text-align: center;">
+<div style="display: flex; justify-content: space-around; gap: 20px;">
+
+<div style="text-align: center;">
   <h4>Home Tab</h4>
   <img src="./Screenshots/Home%20Tab.png" alt="Home Tab" width="300"/>
 </div>
 
-<div style="flex: 1; text-align: center;">
+<div style="text-align: center;">
   <h4>Donor/Recipient ID-Based Access</h4>
   <img src="./Screenshots/Role%20based%20view.png" alt="Donor ID Access" width="300"/>
 </div>
 
-<div style="flex: 1; text-align: center;">
+<div style="text-align: center;">
   <h4>View Record</h4>
   <img src="./Screenshots/Record%20View.png" alt="Record View" width="300"/>
 </div>
 
-<div style="flex: 1; text-align: center;">
+<div style="text-align: center;">
   <h4>Admin Tab</h4>
   <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="300"/>
 </div>
 
 </div>
+
 
 
 
