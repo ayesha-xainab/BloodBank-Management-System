@@ -72,15 +72,17 @@ Here is the Entity Relationship Diagram of the Blood Bank Management System.
   <img src="./Screenshots/Insertion%20form.png" alt="Insertion Form" width="400"/>
   <img src="./Screenshots/Triggered%20an%20event.png" alt="Event Trigger" width="400"/>
   <img src="./Screenshots/Updation%20Window.png" alt="Updation Window" width="400"/>
-  <img src="./Screenshots/Performing%20Updation.png" alt="Update" width="500"/>
-  <img src="./Screenshots/Successful%20Update%20Alert.png" alt="Update Successful" width="500"/>
-  <img src="./Screenshots/Table%20View%20with%20modification%20options.png" alt="Table View" width="500"/>
-  <img src="./Screenshots/Staff%20Login.png" alt="Staff Login" width="500"/>
-  <img src="./Screenshots/Staff%20View%20restricted.png" alt="Staff View" width="500"/>
+  <img src="./Screenshots/Performing%20Updation.png" alt="Update" width="400"/>
+  <img src="./Screenshots/Successful%20Update%20Alert.png" alt="Update Successful" width="400"/>
+  <img src="./Screenshots/Table%20View%20with%20modification%20options.png" alt="Table View" width="400"/>
+  <img src="./Screenshots/Staff%20Login.png" alt="Staff Login" width="400"/>
+  <img src="./Screenshots/Staff%20View%20restricted.png" alt="Staff View" width="400"/>
 </div>
 
 
 ## Future Improvements
+
+We aim to improve our system by adding some features:
 
 * *Notification alerts*:
   Add a notification system for low stock alerts.
@@ -94,7 +96,7 @@ Here is the Entity Relationship Diagram of the Blood Bank Management System.
 
 ## Acknowledgment
 
-This application was developed as a semester project for our Database Systems course and is the result of a collaborative effort between me and my friend @.
+This application was developed as a semester project for our Database Systems course and is the result of a collaborative effort between me and my friend @Alina1902.
 
 
 
