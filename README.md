@@ -56,25 +56,22 @@ Here is the Entity Relationship Diagram of the Blood Bank Management System.
 1. Clone this repository.
 2. Install required Python libraries.
 3. Configure Oracle Database by importing the sql script.
-4. Update database connection in the Python application.
+4. Update the database connection in the Python application.
 5. Run the application.
 
-## Screenshots
 
 ## Screenshots
 
-## Screenshots
-
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 25px;">
   <img src="./Screenshots/Home%20Tab.png" alt="Home Tab" width="400"/>
   <img src="./Screenshots/Role%20based%20view.png" alt="Donor ID Access" width="400"/>
-  <img src="./Screenshots/Record%20View.png" alt="Record View" width="500"/>
-  <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="500"/>
-  <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="500"/>
-  <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="500"/>
-  <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="500"/>
-  <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="500"/>
-  <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="500"/>
+  <img src="./Screenshots/Record%20View.png" alt="Record View" width="400"/>
+  <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="400"/>
+  <img src="./Screenshots/Admin%20Authentication.png" alt="Admin Authentication" width="400"/>
+  <img src="./Screenshots/Admin%20Panel.png" alt="Admin Panel" width="400"/>
+  <img src="./Screenshots/Insertion%20Form.png" alt="Insertion Form" width="400"/>
+  <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="400"/>
+  <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="400"/>
 
 </div>
 
