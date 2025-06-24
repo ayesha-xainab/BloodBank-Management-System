@@ -69,12 +69,15 @@ Here is the Entity Relationship Diagram of the Blood Bank Management System.
   <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="400"/>
   <img src="./Screenshots/Admin%20Authentication.png" alt="Admin Authentication" width="400"/>
   <img src="./Screenshots/Admin%20Panel.png" alt="Admin Panel" width="400"/>
-  <img src="./Screenshots/Insertion%20Form.png" alt="Insertion Form" width="400"/>
-  <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="400"/>
-  <img src="./Screenshots/Admin%20Tab.png" alt="Admin Tab" width="400"/>
-
+  <img src="./Screenshots/Insertion%20form.png" alt="Insertion Form" width="400"/>
+  <img src="./Screenshots/Triggered%20an%20event.png" alt="Event Trigger" width="400"/>
+  <img src="./Screenshots/Updation%20Window.png" alt="Updation Window" width="400"/>
+  <img src="./Screenshots/Performing%20Updation.png" alt="Update" width="500"/>
+  <img src="./Screenshots/Successful%20Update%20Alert.png" alt="Update Successful" width="500"/>
+  <img src="./Screenshots/Table%20View%20with%20modification%20options.png" alt="Table View" width="500"/>
+  <img src="./Screenshots/Staff%20Login.png" alt="Staff Login" width="500"/>
+  <img src="./Screenshots/Staff%20View%20restricted.png" alt="Staff View" width="500"/>
 </div>
-
 
 
 ## Future Improvements
