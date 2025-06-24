@@ -65,7 +65,7 @@ Here is the Entity Relationship Diagram of the Blood Bank Management System.
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-around; gap: 20px;">
+<div style="display: flex; justify-content: space-around;">
 
 <div style="text-align: center;">
   <h4>Home Tab</h4>
