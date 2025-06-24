@@ -63,7 +63,7 @@ Here is the Entity Relationship Diagram of the Blood Bank Management System.
 
 ### Home Tab
 
-![](link_to_image)
+![HomeTab](/Screenshots/Home%Tab.png)
 
 
 
@@ -74,8 +74,7 @@ Here is the Entity Relationship Diagram of the Blood Bank Management System.
 * *AI enhancements*:
   Integrate machine learning for donor-recommendation.
 * *System Expansion*:
-  * Allow integration with other hospital systems.
-  * Develop a web-based version for remote access.
+  Develop a web-based version for remote access.
 * *Data Visualization*:
   Include graphical representations of stock and donor statistics.
 
