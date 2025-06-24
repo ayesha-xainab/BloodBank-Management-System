@@ -96,7 +96,7 @@ We aim to improve our system by adding some features:
 
 ## Acknowledgment
 
-This application was developed as a semester project for our Database Systems course and is the result of a collaborative effort between me and my friend [@Alina1902](https://github.com/Alina1902).
+This application was developed as a semester project for our Database Systems course and is the result of a collaborative effort between me and my friend [Alina](https://github.com/Alina1902).
 
 
 
